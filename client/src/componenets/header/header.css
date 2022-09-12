@@ -1,0 +1,9 @@
+:root {
+  --clr-primary-400: rgb(51, 17, 51);
+  --clr-secondary-400: rgb(48, 9, 48);
+}
+.header > ul {
+  text-align: center;
+  background-color: var(--clr-secondary-400);
+  color: azure;
+}

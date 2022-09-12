@@ -1,0 +1,20 @@
+.college-container {
+  padding: 2rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10rem;
+}
+.college-details {
+  display: flex;
+  flex-direction: column;
+}
+.simillar-college {
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+}
+
+@media (min-width: 50rem) {
+}
